@@ -1,0 +1,10 @@
+                Library Management System 
+                   Returned By: abc
+    Date: 2020-06-25    Time:12:16:36.715388
+
+S.N.		Bookname		Cost
+1		Harry Potter		Rs2
+2		Start With Why		Rs1.5
+3		Programming With Python		Rs1.5
+					Fine: Rs6
+					Total: Rs11.0
